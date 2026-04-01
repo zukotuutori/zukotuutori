@@ -12,6 +12,6 @@ Welcome to my GitHub. Feel free to contact me for collaboration, technical discu
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,cs" />
+    <img src="https://skillicons.dev/icons?i=java,idea,py,cs,vscode,apple" />
   </a>
 </p>
