@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Zukotuutori
+## 👋 Hi, I'm Zukotuutori  <img src="https://skillicons.dev/icons?i=github" />
 
 Welcome to my GitHub. Feel free to contact me for collaboration, technical discussions, or some other coding stuff. Always open to learn something new.
 
@@ -12,6 +12,6 @@ Welcome to my GitHub. Feel free to contact me for collaboration, technical discu
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,idea,py,cs,vscode,apple" />
+    <img src="https://skillicons.dev/icons?i=java,idea,py,cs,vscode,apple,windows" />
   </a>
 </p>
