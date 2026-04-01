@@ -3,9 +3,9 @@
 Welcome to my GitHub. Feel free to contact me for collaboration, technical discussions, or concrete project ideas. Always open to learn something new.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zukotuutori/Zukotuutori/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zukotuutori/Zukotuutori/output/github-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Zukotuutori/Zukotuutori/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zukotuutori1/Zukotuutori1/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zukotuutori1/Zukotuutori1/output/github-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Zukotuutori1/Zukotuutori1/output/github-snake.svg" />
 </picture>
 
 ## 💻 Current technologies used in my projects
