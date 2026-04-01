@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-![JavaScript](https://skillicons.dev/icons?i=js,html,css,python)
+[JavaScript](https://skillicons.dev/icons?i=js,html,css,python)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
