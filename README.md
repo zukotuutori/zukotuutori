@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Zukotuutori
 
-Welcome to my GitHub. Feel free to contact me for collaboration, technical discussions, or concrete project ideas. Always open to learn something new.
+Welcome to my GitHub. Feel free to contact me for collaboration, technical discussions, or some other coding stuff. Always open to learn something new.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zukotuutori1/Zukotuutori1/output/github-snake-dark.svg" />
