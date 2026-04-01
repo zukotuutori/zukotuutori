@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Zukotuutori  <img src="https://skillicons.dev/icons?i=github" />
+## 👋 Hi, I'm Zukotuutori  
 
 Welcome to my GitHub. Feel free to contact me for collaboration, technical discussions, or some other coding stuff. Always open to learn something new.
 
