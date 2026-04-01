@@ -1,18 +1,17 @@
-## Hi there 👋
+## 👋 Hi, I'm Zukotuutori
 
-<!--
-**Zukotuutori1/Zukotuutori1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub. Feel free to contact me for collaboration, technical discussions, or concrete project ideas. Always open to learn something new.
 
-Here are some ideas to get you started:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zukotuutori/Zukotuutori/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zukotuutori/Zukotuutori/output/github-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Zukotuutori/Zukotuutori/output/github-snake.svg" />
+</picture>
 
-[JavaScript](https://skillicons.dev/icons?i=js,html,css,python)
+## 💻 Current technologies used in my projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,cs" />
+  </a>
+</p>
