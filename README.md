@@ -15,3 +15,5 @@ Welcome to my GitHub. Feel free to contact me for collaboration, technical discu
     <img src="https://skillicons.dev/icons?i=html,css,js,angular,py,java,cs,idea,vscode,figma,apple,windows" />
   </a>
 </p>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F6V023PNQV)
