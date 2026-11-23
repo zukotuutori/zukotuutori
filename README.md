@@ -17,7 +17,7 @@ Feel free to contact me for collaboration, questions about my projects or anythi
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,kotlin,cs" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,rust,py,java,kotlin,cs" />
   </a>
 </p>
 
